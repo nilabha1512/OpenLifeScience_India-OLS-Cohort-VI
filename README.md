@@ -5,7 +5,7 @@ Success of the project will be defined through the creation of a website that wi
 
 
 ## VISION STATEMENT ##
-__TLDR (To Long Didn't Read)__ 
+__TLDR (Too Long Didn't Read)__ 
 I wish to realize an India where research and the concepts of open science are encouraged and championed from the get-go.
 
 This is to enable future generations of life science enthusiasts to find the right avenue of research in both academia and industry through informed decisions. I truly believe that exploring what is out there today, can help us be there and support future initiatives from younger generations more actively and competently.
