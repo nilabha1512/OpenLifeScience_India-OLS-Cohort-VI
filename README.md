@@ -3,6 +3,8 @@ The project seeks to unify all current and future intiatives for _Open Life Scie
 
 Success of the project will be defined through the creation of a website that will provide a one-stop portal for any student, academician or industry professional to leverage to identify potential communities, individuals or groups that alligns with their needs. 
 
+**Keywords** - Generation Z, Researchers, Research Trends, Open Community, Life Science, India, Community Building
+
 
 ## VISION STATEMENT ##
 __TLDR (Too Long Didn't Read)__ 
