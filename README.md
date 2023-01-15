@@ -1,16 +1,15 @@
 # Understanding the Open Life Science Landscape in India
-The project seeks to unify all current and future intiatives for _Open Life Science_ in India. 
+This project seeks to unify all current and future intiatives for _Open Life Science_ in India. 
 
-Success of the project will be defined through the creation of a website that will provide a one-stop portal for any student, academician or industry professional to leverage to identify potential communities, individuals or groups that alligns with their needs. 
+Success of this project will be defined through the curation of a website that will provide a one-stop portal for students, academics, or industry professionals to leverage identifying potential communities, individuals, or groups that allign with their interests. 
 
 **Keywords** - Generation Z, Researchers, Research Trends, Open Community, Life Science, India, Community Building
 
-
 ## VISION STATEMENT ##
 __TLDR (Too Long Didn't Read)__ 
-I wish to realize an India where research and the concepts of open science are encouraged and championed from the get-go.
+I want to realize an India where research and the concepts of open science are encouraged and championed from the get-go.
 
-This is to enable future generations of life science enthusiasts to find the right avenue of research in both academia and industry through informed decisions. I truly believe that exploring what is out there today, can help us be there and support future initiatives from younger generations more actively and competently.
+This is to enable future generations of life science enthusiasts to find the right avenue of research in both academia and industry through informed decisions. I truly believe that exploring what is out there today can help us forge better future initiatives through the younger generations more actively and competently.
 
 __Who am I working with?__
 
