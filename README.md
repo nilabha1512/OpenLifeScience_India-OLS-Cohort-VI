@@ -13,16 +13,21 @@ This is to enable future generations of life science enthusiasts to find the rig
 
 __Who am I working with?__
 
-Right now, I am working alone with help of my mentor, Anne Treasure. In the future, I will be open to joining forces with like-minded and passionate individuals who are crazy enough to believe that they can change the world.
+Right now, I am working alone with help of my mentor, Mrs. Anne Treasure. In the future, I will be open to joining forces with like-minded and passionate individuals who are crazy enough to believe that they can change the world!
 
-__What am I doing?__
+__Why am I doing, What I am doing?__
 
-Past. Present. Future. I am trying to understand the Past, to define the Present. I am defining the Present to help realize what the Future could be. To understand the Past, I am working through the existing literature on research practices, open science initiatives, and existing government policies for the same. For the Present, I am talking with my professors and connections in both academia and the industry to understand why there remains a sense of mistrust between these two axes. Finally, for the Future, I am trying to visualize on paper which nature of this future would suit my fellow undergraduates and future generations.
+Past. Present. Future. I am trying to understand the *Past* to define the *Present*. I am defining the *Present* to realize what the *Future* could be. To understand the *Past*, I am working through the existing literature on research practices, open science initiatives, and existing government policies. For the *Present*, I am intergrating with my professors and connections in both academia and industry to understand why there remains a sense of mistrust between these two axes. Finally, for the *Future*, I am will visualize on paper which nature of this future would suit my fellow undergraduates and future generations.
 
 __Who am I doing this for?__
 
-For my peers, colleagues, professors and industry professionals, and future Nilabhas who want to know if the uncharted can be charted.
-For myself, I never want to feel helpless and uncertain about my future. My education and exposure to different avenues of life require me to be a responsible student and global citizen and attempt to realize the landscape of research in my home country.
-This is my vision. My dream is for a better world. Right now, I do not know how to make it, happen, but I will make sure I give my best. Your opinions and strategies to make it happen, are more than welcome.
+This is for my Peers. Colleagues. Professors. Industry Professionals.
+And for future *Nilabhas* who want to know if the uncharted can be charted.
 
-P.S. I will make it a point to be more active here. If you wish to get updates, do share your email as a comment. : )
+For myself, I never want to feel helpless and uncertain about my future. My education and exposure to different avenues of life require me to be a responsible student & global citizen and attempt to realize the landscape of research in my home country.
+
+This is my vision. My dream for a better world. 
+Right now, I do not know how to make it happen, but of course, I will ensure to I give it my best. 
+
+Your opinions and strategies to make it happen are more than welcome.
+P.S. I will make it a point to be more active here. If you wish to get updates, do share your email as a comment!
